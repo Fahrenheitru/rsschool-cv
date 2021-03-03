@@ -8,7 +8,7 @@ I consider perseverance, curiosity and determination to be my strengths.
 Russia, Chelyabinsk region
 
 ## Contact me
-[Email](ifahrenheitru@gmail.com)
+Email: ifahrenheitru@gmail.com
 
 ## Education
 Graduated from National Research Nuclear University MEPHI (Moscow Engineering Physics Institute).
