@@ -1,1 +1,0 @@
-https://fahrenheitru.github.io/rsschool-cv/cv
