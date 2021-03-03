@@ -27,7 +27,6 @@ I have a bachelor's degree in "Software and information and measuring technologi
 
 ## Areas of interest
 * Frontend
-* Internet of things
 * Microelectronics
 
 ## Code Examples
