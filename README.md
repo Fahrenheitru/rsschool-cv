@@ -1,1 +1,1 @@
-https://fahrenheitru.github.io/rsschool-cv/cv
+https://fahrenheitru.github.io/rsschool-cv/
